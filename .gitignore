@@ -1,0 +1,15 @@
+# Variables de entorno locales y claves privadas
+.env
+.env.local
+.env*.local
+
+# Dependencias de Node
+node_modules/
+
+# Archivos de compilación y sistema de Next.js
+.next/
+out/
+build/
+dist/
+.DS_Store
+Thumbs.db
